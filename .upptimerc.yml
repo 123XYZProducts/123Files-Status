@@ -16,6 +16,3 @@ status-website:
   name: 123Files
   introTitle: "**123Files** uptime tracker"
   introMessage: You can use this page to check on any outages, server maintaince and downtimes.
-  navbar:
-    - title: Status
-      href: /
