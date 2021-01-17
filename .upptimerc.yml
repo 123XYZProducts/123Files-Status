@@ -14,7 +14,7 @@ status-website:
   baseUrl: /123Files-Status
   logoUrl: https://123files.xyz/cache/themes/deluxe/logo.png
   name: 123Files
-  introTitle: "**123Files** uptime tracker"
+  introTitle: "**123Files** Status Tracker"
   introMessage: You can use this page to check on any outages, server maintaince and downtimes.
 
 i18n:
