@@ -16,3 +16,6 @@ status-website:
   name: 123Files
   introTitle: "**123Files** uptime tracker"
   introMessage: You can use this page to check on any outages, server maintaince and downtimes.
+
+i18n:
+  footer: Copyright © <script>document.write(new Date().getFullYear())</script> <a class="white" href="https://123files.xyz">123Files</a>
