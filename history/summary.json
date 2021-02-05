@@ -4,19 +4,19 @@
     "url": "https://123files.xyz",
     "icon": "https://favicons.githubusercontent.com/123files.xyz",
     "slug": "123-files",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 444,
-    "timeWeek": 485,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 520,
+    "timeDay": 431,
+    "timeWeek": 476,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 20
     }
   }
 ]
